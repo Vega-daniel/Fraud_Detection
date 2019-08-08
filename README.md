@@ -24,7 +24,7 @@ a scalable solution to handle fraudulent event listings.
 * Develop pipeline to encapsulate cleaning, transforming, and splitting of data
 * Train a suite of models and compare accuracy
 * Select top performing model and tune hyperparameters to optimize for recall
-* Develop web site to present visualizations on the problem (link: http://54.84.68.72:3333/)
+* Develop web site to present visualizations on the problem (link: http://54.84.68.72:2222/)
 * Include API in the website to receive new live data from client
 * Create database to store data
 * Call data from database, clean it, and run model to generate a prediction and present it on the web site
