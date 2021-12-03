@@ -23,13 +23,10 @@ As such, the task is to provide a scalable solution to handle fraudulent event l
 * Develop pipeline to encapsulate cleaning, transforming, and splitting of data
 * Train a suite of models and compare accuracy
 * Select top performing model and tune hyperparameters to optimize for recall
-<<<<<<< HEAD
 * Create a dashboard show the results.
 
-#### Create a website (website and database were done using AWS, they are no longer active)
-=======
-* Develop web site to present visualizations on the problem (link: http://54.84.68.72:2222/)
->>>>>>> f7ae9f8b9b4719d46b67c1228651c52e8378ecf0
+#### Create a website (website and database were done using AWS, *they are no longer active*)
+* Develop web site to present visualizations on the problem (link: http://54.84.68.72:2222/) 
 * Include API in the website to receive new live data from client
 * Create database to store data
 * Call data from database, clean it, and run model to generate a prediction and present it on the web site
